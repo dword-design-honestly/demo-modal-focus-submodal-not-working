@@ -1,0 +1,21 @@
+{
+  "name": "demo-modal-focus-submodal-not-working",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dword-design-honestly/demo-modal-focus-submodal-not-working",
+  "author": "Sebastian Landwehr <153498584+dword-design-honestly@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite dev"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "vue": "^3.4.35"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.2",
+    "bootstrap-vue-next": "^0.24.2",
+    "unplugin-vue-components": "^0.27.3",
+    "vite": "^5.3.5"
+  }
+}
